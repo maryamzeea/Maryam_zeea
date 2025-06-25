@@ -1,5 +1,3 @@
-# Maryam_zeea
-Welcome to my GitHub Profile! Here I share my learning journey, projects, and progress.
 # 👋 Hi, I'm Maryam Zia!
 
 🎓 A passionate BS Artificial Intelligence student  
